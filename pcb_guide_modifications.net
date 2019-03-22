@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\TFS\github\pcb-project\pcb-project\pcb_guide_modifications.sch)
-    (date "3/22/2019 5:05:57 PM")
+    (date "3/22/2019 5:25:38 PM")
     (tool "Eeschema (5.1.0)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
