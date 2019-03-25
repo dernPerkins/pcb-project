@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "\\\\detc-files01\\RedirectedFolders\\DPERKINS\\My Documents\\KiCad Projects\\pcb-project\\pcb-project\\pcb-project.sch")
-    (date "3/25/2019 3:18:02 PM")
+    (date "3/25/2019 5:58:48 PM")
     (tool "Eeschema (5.1.0)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -935,7 +935,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5CB42148))
     (comp (ref C10)
-      (value 22pF)
+      (value 1uF)
       (footprint Capacitor_SMD:C_0805_2012Metric)
       (datasheet ~)
       (libsource (lib Device) (part C_Small) (description "Unpolarized capacitor, small symbol"))
