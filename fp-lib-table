@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name random-keyboard-parts)(type KiCad)(uri "//detc-files01/RedirectedFolders/DPERKINS/My Documents/KiCad Projects/pcb-project/pcb-project/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name MX_Alps_Hybrid)(type KiCad)(uri "//detc-files01/RedirectedFolders/DPERKINS/My Documents/KiCad Projects/pcb-project/pcb-project/MX_Alps_Hybrid.pretty")(options "")(descr ""))
+  (lib (name extra_parts)(type KiCad)(uri "//detc-files01/RedirectedFolders/DPERKINS/My Documents/KiCad Projects/pcb-project/pcb-project")(options "")(descr ""))
 )

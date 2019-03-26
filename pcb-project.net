@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "\\\\detc-files01\\RedirectedFolders\\DPERKINS\\My Documents\\KiCad Projects\\pcb-project\\pcb-project\\pcb-project.sch")
-    (date "3/26/2019 2:34:58 PM")
+    (date "3/26/2019 4:48:07 PM")
     (tool "Eeschema (5.1.0)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -854,7 +854,7 @@
       (tstamp 5D290DFB))
     (comp (ref SW1)
       (value SW_PUSH)
-      (footprint Button_Switch_SMD:SW_SPST_TL3342)
+      (footprint random-keyboard-parts:SKQG-1155865)
       (libsource (lib Switch) (part SW_Push) (description "Push button switch, generic, two pins"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5D3B1519))
