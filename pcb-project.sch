@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:pcb-project-cache
 EELAYER 29 0
 EELAYER END
 $Descr A2 23386 16535
@@ -2561,4 +2562,46 @@ Wire Wire Line
 Wire Wire Line
 	19075 3450 19225 3450
 Connection ~ 18450 3525
+Text GLabel 20425 3150 2    50   Input ~ 0
+col0
+Text GLabel 20425 4450 2    50   Input ~ 0
+row0
+Text GLabel 20425 4350 2    50   Input ~ 0
+row1
+Text GLabel 20425 4250 2    50   Input ~ 0
+row2
+Text GLabel 20425 3350 2    50   Input ~ 0
+row3
+Text GLabel 20425 3250 2    50   Input ~ 0
+row4
+Text GLabel 20425 4550 2    50   Input ~ 0
+col1
+Text GLabel 20425 4750 2    50   Input ~ 0
+col2
+Text GLabel 20425 4650 2    50   Input ~ 0
+col3
+Text GLabel 20425 4850 2    50   Input ~ 0
+col4
+Text GLabel 20425 4950 2    50   Input ~ 0
+col5
+Text GLabel 20425 3450 2    50   Input ~ 0
+col6
+Text GLabel 20425 3550 2    50   Input ~ 0
+col7
+Text GLabel 20425 3650 2    50   Input ~ 0
+col8
+Text GLabel 20425 3950 2    50   Input ~ 0
+col9
+Text GLabel 20425 4050 2    50   Input ~ 0
+col10
+Text GLabel 20425 5450 2    50   Input ~ 0
+col11
+Text GLabel 20425 5550 2    50   Input ~ 0
+col12
+Text GLabel 20425 5650 2    50   Input ~ 0
+col13
+Text GLabel 20425 5750 2    50   Input ~ 0
+col14
+Text GLabel 20425 5850 2    50   Input ~ 0
+col15
 $EndSCHEMATC
