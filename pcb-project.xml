@@ -1,0 +1,2266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>\\detc-files01\RedirectedFolders\DPERKINS\My Documents\KiCad Projects\pcb-project\pcb-project\pcb-project.sch</source>
+    <date>3/28/2019 11:57:01 AM</date>
+    <tool>Eeschema (5.1.0)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>pcb-project.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="K_`2">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BDF</tstamp>
+    </comp>
+    <comp ref="D_`2">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60326573</tstamp>
+    </comp>
+    <comp ref="K_1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BFE</tstamp>
+    </comp>
+    <comp ref="D_1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032C69D</tstamp>
+    </comp>
+    <comp ref="K_2">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BF9</tstamp>
+    </comp>
+    <comp ref="D_2">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032B650</tstamp>
+    </comp>
+    <comp ref="K_3">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032E38D</tstamp>
+    </comp>
+    <comp ref="D_3">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722C05</tstamp>
+    </comp>
+    <comp ref="K_4">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BF6</tstamp>
+    </comp>
+    <comp ref="D_4">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032AB58</tstamp>
+    </comp>
+    <comp ref="K_5">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BD1</tstamp>
+    </comp>
+    <comp ref="D_5">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60322C0D</tstamp>
+    </comp>
+    <comp ref="K_6">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BD9</tstamp>
+    </comp>
+    <comp ref="D_6">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032484E</tstamp>
+    </comp>
+    <comp ref="K_7">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BE6</tstamp>
+    </comp>
+    <comp ref="D_7">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603285B8</tstamp>
+    </comp>
+    <comp ref="K_8">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60322D2E</tstamp>
+    </comp>
+    <comp ref="D_8">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BD3</tstamp>
+    </comp>
+    <comp ref="K_9">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722C0A</tstamp>
+    </comp>
+    <comp ref="D_9">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032F917</tstamp>
+    </comp>
+    <comp ref="K_0">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032131E</tstamp>
+    </comp>
+    <comp ref="D_0">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BCA</tstamp>
+    </comp>
+    <comp ref="K_MINUS1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722C03</tstamp>
+    </comp>
+    <comp ref="D_MINUS1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032DCDE</tstamp>
+    </comp>
+    <comp ref="K_EQUAL1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032E71D</tstamp>
+    </comp>
+    <comp ref="D_EQUAL1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722C06</tstamp>
+    </comp>
+    <comp ref="K_BSLSH1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032A805</tstamp>
+    </comp>
+    <comp ref="D_BSLSH1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BF4</tstamp>
+    </comp>
+    <comp ref="K_`1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60324939</tstamp>
+    </comp>
+    <comp ref="D_`1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BDA</tstamp>
+    </comp>
+    <comp ref="D_F2">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032E061</tstamp>
+    </comp>
+    <comp ref="K_TAB1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1.5U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BD6</tstamp>
+    </comp>
+    <comp ref="D_TAB1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603235D7</tstamp>
+    </comp>
+    <comp ref="K_Q1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60328CE5</tstamp>
+    </comp>
+    <comp ref="D_Q1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BE8</tstamp>
+    </comp>
+    <comp ref="K_W1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032B4C1</tstamp>
+    </comp>
+    <comp ref="D_W1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BF8</tstamp>
+    </comp>
+    <comp ref="K_E1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032D193</tstamp>
+    </comp>
+    <comp ref="D_E1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722C00</tstamp>
+    </comp>
+    <comp ref="K_R1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603263E5</tstamp>
+    </comp>
+    <comp ref="D_R1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BDD</tstamp>
+    </comp>
+    <comp ref="K_T1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60323405</tstamp>
+    </comp>
+    <comp ref="D_T1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BD5</tstamp>
+    </comp>
+    <comp ref="K_Y1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032428A</tstamp>
+    </comp>
+    <comp ref="D_Y1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BD7</tstamp>
+    </comp>
+    <comp ref="K_U1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60329049</tstamp>
+    </comp>
+    <comp ref="D_U1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BEA</tstamp>
+    </comp>
+    <comp ref="K_I1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BF7</tstamp>
+    </comp>
+    <comp ref="D_I1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032B432</tstamp>
+    </comp>
+    <comp ref="K_O1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60322BE7</tstamp>
+    </comp>
+    <comp ref="D_O1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BD0</tstamp>
+    </comp>
+    <comp ref="K_P1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BFA</tstamp>
+    </comp>
+    <comp ref="D_P1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032B8FC</tstamp>
+    </comp>
+    <comp ref="K_[1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60325A4D</tstamp>
+    </comp>
+    <comp ref="D_[1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BDC</tstamp>
+    </comp>
+    <comp ref="K_]1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60320AD7</tstamp>
+    </comp>
+    <comp ref="D_]1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BC5</tstamp>
+    </comp>
+    <comp ref="K_BACKSPACE1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1.5U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BEF</tstamp>
+    </comp>
+    <comp ref="D_BACKSPACE1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60329982</tstamp>
+    </comp>
+    <comp ref="D_F3">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722C08</tstamp>
+    </comp>
+    <comp ref="K_CAPS_LOCK1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1.75U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603227FA</tstamp>
+    </comp>
+    <comp ref="D_CAPS_LOCK1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BCF</tstamp>
+    </comp>
+    <comp ref="K_A1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032C1C4</tstamp>
+    </comp>
+    <comp ref="D_A1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BFB</tstamp>
+    </comp>
+    <comp ref="K_S1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BDB</tstamp>
+    </comp>
+    <comp ref="D_S1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603255F5</tstamp>
+    </comp>
+    <comp ref="K_D1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032CE2E</tstamp>
+    </comp>
+    <comp ref="D_D1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BFF</tstamp>
+    </comp>
+    <comp ref="K_F11">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60327B9C</tstamp>
+    </comp>
+    <comp ref="D_F11">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BE4</tstamp>
+    </comp>
+    <comp ref="K_G1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BC9</tstamp>
+    </comp>
+    <comp ref="D_G1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032101E</tstamp>
+    </comp>
+    <comp ref="K_H1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722C07</tstamp>
+    </comp>
+    <comp ref="D_H1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032EBE5</tstamp>
+    </comp>
+    <comp ref="K_J1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BC8</tstamp>
+    </comp>
+    <comp ref="D_J1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60320DF2</tstamp>
+    </comp>
+    <comp ref="K_K1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BE2</tstamp>
+    </comp>
+    <comp ref="D_K1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60327919</tstamp>
+    </comp>
+    <comp ref="K_L1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032896A</tstamp>
+    </comp>
+    <comp ref="D_L1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BE7</tstamp>
+    </comp>
+    <comp ref="K_SEMIC1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BF0</tstamp>
+    </comp>
+    <comp ref="D_SEMIC1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60329C32</tstamp>
+    </comp>
+    <comp ref="K_QUOTE1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603292C4</tstamp>
+    </comp>
+    <comp ref="D_QUOTE1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BEC</tstamp>
+    </comp>
+    <comp ref="K_ENTER1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-2.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60329FDC</tstamp>
+    </comp>
+    <comp ref="D_ENTER1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BF2</tstamp>
+    </comp>
+    <comp ref="D_F4">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BFD</tstamp>
+    </comp>
+    <comp ref="K_SHIFT2">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-2.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032828D</tstamp>
+    </comp>
+    <comp ref="D_SHIFT2">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BE5</tstamp>
+    </comp>
+    <comp ref="K_Z1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60320DE0</tstamp>
+    </comp>
+    <comp ref="D_Z1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BC7</tstamp>
+    </comp>
+    <comp ref="K_X1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BCC</tstamp>
+    </comp>
+    <comp ref="D_X1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60321B30</tstamp>
+    </comp>
+    <comp ref="K_C1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032AAFA</tstamp>
+    </comp>
+    <comp ref="D_C1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BF5</tstamp>
+    </comp>
+    <comp ref="K_V1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60327A02</tstamp>
+    </comp>
+    <comp ref="D_V1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BE3</tstamp>
+    </comp>
+    <comp ref="K_B1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032D9FF</tstamp>
+    </comp>
+    <comp ref="D_B1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722C02</tstamp>
+    </comp>
+    <comp ref="K_N1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032F7A7</tstamp>
+    </comp>
+    <comp ref="D_N1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722C09</tstamp>
+    </comp>
+    <comp ref="K_M1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BE0</tstamp>
+    </comp>
+    <comp ref="D_M1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032663E</tstamp>
+    </comp>
+    <comp ref="K_COMMA1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BE9</tstamp>
+    </comp>
+    <comp ref="D_COMMA1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60328D18</tstamp>
+    </comp>
+    <comp ref="K_DOT1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60322D06</tstamp>
+    </comp>
+    <comp ref="D_DOT1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BD2</tstamp>
+    </comp>
+    <comp ref="D_SLASH1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032935B</tstamp>
+    </comp>
+    <comp ref="D_SHIFT1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BEE</tstamp>
+    </comp>
+    <comp ref="K_FN1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BF3</tstamp>
+    </comp>
+    <comp ref="D_FN1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032A679</tstamp>
+    </comp>
+    <comp ref="D_F5">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603290A3</tstamp>
+    </comp>
+    <comp ref="K_WIN2">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60320C26</tstamp>
+    </comp>
+    <comp ref="D_WIN2">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BC6</tstamp>
+    </comp>
+    <comp ref="K_ALT2">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BD8</tstamp>
+    </comp>
+    <comp ref="D_ALT2">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603246B2</tstamp>
+    </comp>
+    <comp ref="K_10">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-7U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BDE</tstamp>
+    </comp>
+    <comp ref="D_10">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603264E4</tstamp>
+    </comp>
+    <comp ref="K_ALT1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BCB</tstamp>
+    </comp>
+    <comp ref="D_ALT1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60321406</tstamp>
+    </comp>
+    <comp ref="K_WIN1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>603226E6</tstamp>
+    </comp>
+    <comp ref="D_WIN1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BCE</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>ATMEGA32U4</value>
+      <footprint>Package_QFP:TQFP-44_10x10mm_P0.8mm</footprint>
+      <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-AU" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CC678FD</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>22u</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CB41132</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CB098B5</tstamp>
+    </comp>
+    <comp ref="X2">
+      <value>XTAL_GND</value>
+      <footprint>Crystal:Crystal_SMD_5032-4Pin_5.0x3.2mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D14DA31</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D290480</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D290DFB</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_PUSH</value>
+      <footprint>random-keyboard-parts:SKQG-1155865</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D3B1519</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D3F26B4</tstamp>
+    </comp>
+    <comp ref="USB2">
+      <value>USB_mini_micro_B</value>
+      <footprint>random-keyboard-parts:Molex-0548190589</footprint>
+      <libsource lib="random-keyboard-parts" part="Molex-0548190589" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D47CFCB</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>500mA</value>
+      <footprint>Fuse:Fuse_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D47EDF5</tstamp>
+    </comp>
+    <comp ref="D_F1">
+      <value>D</value>
+      <footprint>random-keyboard-parts:D_SOD-123-Pretty</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BF1</tstamp>
+    </comp>
+    <comp ref="K_F5">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BEB</tstamp>
+    </comp>
+    <comp ref="K_F4">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032C4C1</tstamp>
+    </comp>
+    <comp ref="K_F3">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6032EFBF</tstamp>
+    </comp>
+    <comp ref="K_F2">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722C04</tstamp>
+    </comp>
+    <comp ref="K_F1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60329EB8</tstamp>
+    </comp>
+    <comp ref="K_SLASH1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D722BED</tstamp>
+    </comp>
+    <comp ref="K_SHIFT1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1.75U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-1U" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60329838</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>22u</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CB42148</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CBC946F</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CFE457F</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CFE4AB7</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CFE4812</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CFE39CF</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24_Small">
+      <description>Four pin crystal, GND on pins 2 and 4, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse_Small">
+      <description>Resettable fuse, polymeric positive temperature coefficient, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Microchip_ATmega" part="ATmega16U4-AU">
+      <aliases>
+        <alias>ATmega16U4RC-AU</alias>
+        <alias>ATmega32U4-AU</alias>
+        <alias>ATmega32U4RC-AU</alias>
+      </aliases>
+      <description>16MHz, 16kB Flash, 1.25kB SRAM, 512B EEPROM, USB 2.0, TQFP-44</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</docs>
+      <footprints>
+        <fp>TQFP*10x10mm*P0.8mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega16U4-AU</field>
+        <field name="Footprint">Package_QFP:TQFP-44_10x10mm_P0.8mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE6" type="3state"/>
+        <pin num="2" name="UVCC" type="power_in"/>
+        <pin num="3" name="D-" type="BiDi"/>
+        <pin num="4" name="D+" type="BiDi"/>
+        <pin num="5" name="UGND" type="passive"/>
+        <pin num="6" name="UCAP" type="passive"/>
+        <pin num="7" name="VBUS" type="input"/>
+        <pin num="8" name="PB0" type="3state"/>
+        <pin num="9" name="PB1" type="3state"/>
+        <pin num="10" name="PB2" type="3state"/>
+        <pin num="11" name="PB3" type="3state"/>
+        <pin num="12" name="PB7" type="3state"/>
+        <pin num="13" name="~RESET" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="XTAL2" type="output"/>
+        <pin num="17" name="XTAL1" type="input"/>
+        <pin num="18" name="PD0" type="3state"/>
+        <pin num="19" name="PD1" type="3state"/>
+        <pin num="20" name="PD2" type="3state"/>
+        <pin num="21" name="PD3" type="3state"/>
+        <pin num="22" name="PD5" type="3state"/>
+        <pin num="23" name="GND" type="passive"/>
+        <pin num="24" name="AVCC" type="power_in"/>
+        <pin num="25" name="PD4" type="3state"/>
+        <pin num="26" name="PD6" type="3state"/>
+        <pin num="27" name="PD7" type="3state"/>
+        <pin num="28" name="PB4" type="3state"/>
+        <pin num="29" name="PB5" type="3state"/>
+        <pin num="30" name="PB6" type="3state"/>
+        <pin num="31" name="PC6" type="3state"/>
+        <pin num="32" name="PC7" type="3state"/>
+        <pin num="33" name="~HWB~/PE2" type="3state"/>
+        <pin num="34" name="VCC" type="passive"/>
+        <pin num="35" name="GND" type="passive"/>
+        <pin num="36" name="PF7" type="3state"/>
+        <pin num="37" name="PF6" type="3state"/>
+        <pin num="38" name="PF5" type="3state"/>
+        <pin num="39" name="PF4" type="3state"/>
+        <pin num="40" name="PF1" type="3state"/>
+        <pin num="41" name="PF0" type="3state"/>
+        <pin num="42" name="AREF" type="passive"/>
+        <pin num="43" name="GND" type="passive"/>
+        <pin num="44" name="AVCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MX_Alps_Hybrid" part="MX-1U">
+      <fields>
+        <field name="Reference">MX</field>
+        <field name="Value">MX-1U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COL" type="passive"/>
+        <pin num="2" name="ROW" type="passive"/>
+        <pin num="3" name="LED" type="passive"/>
+        <pin num="4" name="LEDGND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="random-keyboard-parts" part="Molex-0548190589">
+      <fields>
+        <field name="Reference">USB</field>
+        <field name="Value">Molex-0548190589</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="ID" type="input"/>
+        <pin num="3" name="D+" type="input"/>
+        <pin num="4" name="D-" type="input"/>
+        <pin num="5" name="VBUS" type="input"/>
+        <pin num="6" name="SHIELD" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="MCU_Microchip_ATmega">
+      <uri>C:\Program Files\KiCad\share\kicad\library/MCU_Microchip_ATmega.lib</uri>
+    </library>
+    <library logical="MX_Alps_Hybrid">
+      <uri>//detc-files01/RedirectedFolders/DPERKINS/My Documents/KiCad Projects/pcb-project/pcb-project/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Switch.lib</uri>
+    </library>
+    <library logical="random-keyboard-parts">
+      <uri>//detc-files01/RedirectedFolders/DPERKINS/My Documents/KiCad Projects/pcb-project/pcb-project/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(U2-Pad36)">
+      <node ref="U2" pin="36"/>
+    </net>
+    <net code="2" name="col15">
+      <node ref="K_`1" pin="1"/>
+      <node ref="U2" pin="37"/>
+    </net>
+    <net code="3" name="col14">
+      <node ref="U2" pin="38"/>
+      <node ref="K_BSLSH1" pin="1"/>
+      <node ref="K_BACKSPACE1" pin="1"/>
+    </net>
+    <net code="4" name="col13">
+      <node ref="K_ENTER1" pin="1"/>
+      <node ref="K_]1" pin="1"/>
+      <node ref="K_EQUAL1" pin="1"/>
+      <node ref="K_FN1" pin="1"/>
+      <node ref="U2" pin="39"/>
+    </net>
+    <net code="5" name="Net-(R8-Pad1)">
+      <node ref="R8" pin="1"/>
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="6" name="col12">
+      <node ref="K_MINUS1" pin="1"/>
+      <node ref="K_QUOTE1" pin="1"/>
+      <node ref="U2" pin="40"/>
+      <node ref="K_[1" pin="1"/>
+      <node ref="K_SHIFT1" pin="1"/>
+    </net>
+    <net code="7" name="Net-(U2-Pad42)">
+      <node ref="U2" pin="42"/>
+    </net>
+    <net code="8" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2"/>
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="9" name="Net-(U2-Pad8)">
+      <node ref="U2" pin="8"/>
+    </net>
+    <net code="10" name="col0">
+      <node ref="K_F1" pin="1"/>
+      <node ref="K_F4" pin="1"/>
+      <node ref="K_F3" pin="1"/>
+      <node ref="K_F2" pin="1"/>
+      <node ref="K_F5" pin="1"/>
+      <node ref="U2" pin="9"/>
+    </net>
+    <net code="11" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1"/>
+      <node ref="U2" pin="3"/>
+    </net>
+    <net code="12" name="D-">
+      <node ref="R7" pin="2"/>
+      <node ref="USB2" pin="4"/>
+    </net>
+    <net code="13" name="Net-(R6-Pad2)">
+      <node ref="U2" pin="33"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="14" name="GND">
+      <node ref="SW1" pin="1"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C10" pin="1"/>
+      <node ref="USB2" pin="1"/>
+      <node ref="U2" pin="15"/>
+      <node ref="U2" pin="23"/>
+      <node ref="C14" pin="1"/>
+      <node ref="C12" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="U2" pin="35"/>
+      <node ref="X2" pin="2"/>
+      <node ref="U2" pin="43"/>
+      <node ref="X2" pin="4"/>
+      <node ref="C8" pin="2"/>
+      <node ref="U2" pin="5"/>
+      <node ref="R6" pin="1"/>
+      <node ref="C9" pin="2"/>
+    </net>
+    <net code="15" name="+5V">
+      <node ref="U2" pin="2"/>
+      <node ref="C14" pin="2"/>
+      <node ref="U2" pin="7"/>
+      <node ref="U2" pin="24"/>
+      <node ref="C12" pin="1"/>
+      <node ref="C11" pin="1"/>
+      <node ref="U2" pin="14"/>
+      <node ref="C13" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="U2" pin="44"/>
+      <node ref="U2" pin="34"/>
+      <node ref="F1" pin="1"/>
+    </net>
+    <net code="16" name="row1">
+      <node ref="D_F2" pin="1"/>
+      <node ref="D_Q1" pin="1"/>
+      <node ref="D_TAB1" pin="1"/>
+      <node ref="D_U1" pin="1"/>
+      <node ref="D_R1" pin="1"/>
+      <node ref="D_E1" pin="1"/>
+      <node ref="D_W1" pin="1"/>
+      <node ref="U2" pin="19"/>
+      <node ref="D_Y1" pin="1"/>
+      <node ref="D_T1" pin="1"/>
+      <node ref="D_BACKSPACE1" pin="1"/>
+      <node ref="D_[1" pin="1"/>
+      <node ref="D_I1" pin="1"/>
+      <node ref="D_O1" pin="1"/>
+      <node ref="D_P1" pin="1"/>
+      <node ref="D_]1" pin="1"/>
+    </net>
+    <net code="17" name="Net-(D_WIN1-Pad2)">
+      <node ref="K_WIN1" pin="2"/>
+      <node ref="D_WIN1" pin="2"/>
+    </net>
+    <net code="18" name="Net-(U2-Pad1)">
+      <node ref="U2" pin="1"/>
+    </net>
+    <net code="19" name="row3">
+      <node ref="D_X1" pin="1"/>
+      <node ref="D_N1" pin="1"/>
+      <node ref="D_V1" pin="1"/>
+      <node ref="D_B1" pin="1"/>
+      <node ref="D_C1" pin="1"/>
+      <node ref="D_SLASH1" pin="1"/>
+      <node ref="D_Z1" pin="1"/>
+      <node ref="D_DOT1" pin="1"/>
+      <node ref="D_SHIFT2" pin="1"/>
+      <node ref="D_F4" pin="1"/>
+      <node ref="D_SHIFT1" pin="1"/>
+      <node ref="D_COMMA1" pin="1"/>
+      <node ref="D_FN1" pin="1"/>
+      <node ref="U2" pin="11"/>
+      <node ref="D_M1" pin="1"/>
+    </net>
+    <net code="20" name="Net-(U2-Pad12)">
+      <node ref="U2" pin="12"/>
+    </net>
+    <net code="21" name="Net-(R1-Pad1)">
+      <node ref="SW1" pin="2"/>
+      <node ref="R1" pin="1"/>
+      <node ref="U2" pin="13"/>
+    </net>
+    <net code="22" name="row2">
+      <node ref="D_F3" pin="1"/>
+      <node ref="D_S1" pin="1"/>
+      <node ref="D_F11" pin="1"/>
+      <node ref="D_D1" pin="1"/>
+      <node ref="D_SEMIC1" pin="1"/>
+      <node ref="D_QUOTE1" pin="1"/>
+      <node ref="D_L1" pin="1"/>
+      <node ref="D_G1" pin="1"/>
+      <node ref="D_CAPS_LOCK1" pin="1"/>
+      <node ref="D_H1" pin="1"/>
+      <node ref="D_ENTER1" pin="1"/>
+      <node ref="D_A1" pin="1"/>
+      <node ref="U2" pin="18"/>
+      <node ref="D_K1" pin="1"/>
+      <node ref="D_J1" pin="1"/>
+    </net>
+    <net code="23" name="row0">
+      <node ref="D_2" pin="1"/>
+      <node ref="D_`1" pin="1"/>
+      <node ref="D_`2" pin="1"/>
+      <node ref="D_1" pin="1"/>
+      <node ref="D_8" pin="1"/>
+      <node ref="D_9" pin="1"/>
+      <node ref="D_5" pin="1"/>
+      <node ref="D_7" pin="1"/>
+      <node ref="D_F1" pin="1"/>
+      <node ref="D_0" pin="1"/>
+      <node ref="D_6" pin="1"/>
+      <node ref="D_BSLSH1" pin="1"/>
+      <node ref="D_EQUAL1" pin="1"/>
+      <node ref="D_3" pin="1"/>
+      <node ref="D_MINUS1" pin="1"/>
+      <node ref="U2" pin="20"/>
+      <node ref="D_4" pin="1"/>
+    </net>
+    <net code="24" name="col1">
+      <node ref="K_WIN2" pin="1"/>
+      <node ref="K_CAPS_LOCK1" pin="1"/>
+      <node ref="K_TAB1" pin="1"/>
+      <node ref="U2" pin="21"/>
+      <node ref="K_SHIFT2" pin="1"/>
+      <node ref="K_`2" pin="1"/>
+    </net>
+    <net code="25" name="col2">
+      <node ref="U2" pin="22"/>
+      <node ref="K_Z1" pin="1"/>
+      <node ref="K_1" pin="1"/>
+      <node ref="K_ALT2" pin="1"/>
+      <node ref="K_A1" pin="1"/>
+      <node ref="K_Q1" pin="1"/>
+    </net>
+    <net code="26" name="col3">
+      <node ref="U2" pin="25"/>
+      <node ref="K_S1" pin="1"/>
+      <node ref="K_2" pin="1"/>
+      <node ref="K_W1" pin="1"/>
+      <node ref="K_10" pin="1"/>
+      <node ref="K_X1" pin="1"/>
+    </net>
+    <net code="27" name="col4">
+      <node ref="K_C1" pin="1"/>
+      <node ref="K_E1" pin="1"/>
+      <node ref="K_3" pin="1"/>
+      <node ref="K_D1" pin="1"/>
+      <node ref="K_ALT1" pin="1"/>
+      <node ref="U2" pin="26"/>
+    </net>
+    <net code="28" name="col5">
+      <node ref="K_R1" pin="1"/>
+      <node ref="K_V1" pin="1"/>
+      <node ref="K_WIN1" pin="1"/>
+      <node ref="K_F11" pin="1"/>
+      <node ref="U2" pin="27"/>
+      <node ref="K_4" pin="1"/>
+    </net>
+    <net code="29" name="col6">
+      <node ref="U2" pin="28"/>
+      <node ref="K_G1" pin="1"/>
+      <node ref="K_B1" pin="1"/>
+      <node ref="K_T1" pin="1"/>
+      <node ref="K_5" pin="1"/>
+    </net>
+    <net code="30" name="col7">
+      <node ref="K_Y1" pin="1"/>
+      <node ref="K_6" pin="1"/>
+      <node ref="K_H1" pin="1"/>
+      <node ref="K_N1" pin="1"/>
+      <node ref="U2" pin="29"/>
+    </net>
+    <net code="31" name="col8">
+      <node ref="U2" pin="30"/>
+      <node ref="K_7" pin="1"/>
+      <node ref="K_U1" pin="1"/>
+      <node ref="K_J1" pin="1"/>
+      <node ref="K_M1" pin="1"/>
+    </net>
+    <net code="32" name="col9">
+      <node ref="U2" pin="31"/>
+      <node ref="K_K1" pin="1"/>
+      <node ref="K_8" pin="1"/>
+      <node ref="K_COMMA1" pin="1"/>
+      <node ref="K_I1" pin="1"/>
+    </net>
+    <net code="33" name="Net-(USB2-Pad2)">
+      <node ref="USB2" pin="2"/>
+    </net>
+    <net code="34" name="D+">
+      <node ref="USB2" pin="3"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="35" name="Net-(USB2-Pad6)">
+      <node ref="USB2" pin="6"/>
+    </net>
+    <net code="36" name="VCC">
+      <node ref="USB2" pin="5"/>
+      <node ref="F1" pin="2"/>
+    </net>
+    <net code="37" name="Net-(C9-Pad1)">
+      <node ref="U2" pin="16"/>
+      <node ref="X2" pin="3"/>
+      <node ref="C9" pin="1"/>
+    </net>
+    <net code="38" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1"/>
+      <node ref="X2" pin="1"/>
+      <node ref="U2" pin="17"/>
+    </net>
+    <net code="39" name="Net-(K_DOT1-Pad3)">
+      <node ref="K_DOT1" pin="3"/>
+    </net>
+    <net code="40" name="Net-(D_M1-Pad2)">
+      <node ref="D_M1" pin="2"/>
+      <node ref="K_M1" pin="2"/>
+    </net>
+    <net code="41" name="Net-(D_COMMA1-Pad2)">
+      <node ref="D_COMMA1" pin="2"/>
+      <node ref="K_COMMA1" pin="2"/>
+    </net>
+    <net code="42" name="Net-(K_COMMA1-Pad3)">
+      <node ref="K_COMMA1" pin="3"/>
+    </net>
+    <net code="43" name="Net-(K_COMMA1-Pad4)">
+      <node ref="K_COMMA1" pin="4"/>
+    </net>
+    <net code="44" name="Net-(D_DOT1-Pad2)">
+      <node ref="D_DOT1" pin="2"/>
+      <node ref="K_DOT1" pin="2"/>
+    </net>
+    <net code="45" name="Net-(K_DOT1-Pad4)">
+      <node ref="K_DOT1" pin="4"/>
+    </net>
+    <net code="46" name="Net-(D_SHIFT1-Pad2)">
+      <node ref="D_SHIFT1" pin="2"/>
+      <node ref="K_SHIFT1" pin="2"/>
+    </net>
+    <net code="47" name="Net-(D_N1-Pad2)">
+      <node ref="K_N1" pin="2"/>
+      <node ref="D_N1" pin="2"/>
+    </net>
+    <net code="48" name="Net-(D_V1-Pad2)">
+      <node ref="D_V1" pin="2"/>
+      <node ref="K_V1" pin="2"/>
+    </net>
+    <net code="49" name="Net-(D_B1-Pad2)">
+      <node ref="K_B1" pin="2"/>
+      <node ref="D_B1" pin="2"/>
+    </net>
+    <net code="50" name="Net-(K_B1-Pad3)">
+      <node ref="K_B1" pin="3"/>
+    </net>
+    <net code="51" name="Net-(K_B1-Pad4)">
+      <node ref="K_B1" pin="4"/>
+    </net>
+    <net code="52" name="Net-(K_N1-Pad3)">
+      <node ref="K_N1" pin="3"/>
+    </net>
+    <net code="53" name="Net-(K_N1-Pad4)">
+      <node ref="K_N1" pin="4"/>
+    </net>
+    <net code="54" name="Net-(K_M1-Pad3)">
+      <node ref="K_M1" pin="3"/>
+    </net>
+    <net code="55" name="Net-(K_M1-Pad4)">
+      <node ref="K_M1" pin="4"/>
+    </net>
+    <net code="56" name="Net-(D_ALT2-Pad2)">
+      <node ref="K_ALT2" pin="2"/>
+      <node ref="D_ALT2" pin="2"/>
+    </net>
+    <net code="57" name="Net-(D_10-Pad2)">
+      <node ref="K_10" pin="2"/>
+      <node ref="D_10" pin="2"/>
+    </net>
+    <net code="58" name="Net-(K_10-Pad3)">
+      <node ref="K_10" pin="3"/>
+    </net>
+    <net code="59" name="Net-(K_10-Pad4)">
+      <node ref="K_10" pin="4"/>
+    </net>
+    <net code="60" name="Net-(D_ALT1-Pad2)">
+      <node ref="K_ALT1" pin="2"/>
+      <node ref="D_ALT1" pin="2"/>
+    </net>
+    <net code="61" name="Net-(K_ALT1-Pad3)">
+      <node ref="K_ALT1" pin="3"/>
+    </net>
+    <net code="62" name="Net-(K_ALT1-Pad4)">
+      <node ref="K_ALT1" pin="4"/>
+    </net>
+    <net code="63" name="Net-(K_WIN1-Pad3)">
+      <node ref="K_WIN1" pin="3"/>
+    </net>
+    <net code="64" name="Net-(K_WIN1-Pad4)">
+      <node ref="K_WIN1" pin="4"/>
+    </net>
+    <net code="65" name="row4">
+      <node ref="D_WIN2" pin="1"/>
+      <node ref="U2" pin="10"/>
+      <node ref="D_ALT2" pin="1"/>
+      <node ref="D_F5" pin="1"/>
+      <node ref="D_WIN1" pin="1"/>
+      <node ref="D_10" pin="1"/>
+      <node ref="D_ALT1" pin="1"/>
+    </net>
+    <net code="66" name="Net-(D_FN1-Pad2)">
+      <node ref="K_FN1" pin="2"/>
+      <node ref="D_FN1" pin="2"/>
+    </net>
+    <net code="67" name="Net-(K_FN1-Pad3)">
+      <node ref="K_FN1" pin="3"/>
+    </net>
+    <net code="68" name="Net-(K_FN1-Pad4)">
+      <node ref="K_FN1" pin="4"/>
+    </net>
+    <net code="69" name="Net-(D_F5-Pad2)">
+      <node ref="K_F5" pin="2"/>
+      <node ref="D_F5" pin="2"/>
+    </net>
+    <net code="70" name="Net-(D_WIN2-Pad2)">
+      <node ref="D_WIN2" pin="2"/>
+      <node ref="K_WIN2" pin="2"/>
+    </net>
+    <net code="71" name="Net-(K_WIN2-Pad3)">
+      <node ref="K_WIN2" pin="3"/>
+    </net>
+    <net code="72" name="Net-(K_WIN2-Pad4)">
+      <node ref="K_WIN2" pin="4"/>
+    </net>
+    <net code="73" name="Net-(K_ALT2-Pad3)">
+      <node ref="K_ALT2" pin="3"/>
+    </net>
+    <net code="74" name="Net-(K_ALT2-Pad4)">
+      <node ref="K_ALT2" pin="4"/>
+    </net>
+    <net code="75" name="col10">
+      <node ref="K_L1" pin="1"/>
+      <node ref="U2" pin="32"/>
+      <node ref="K_9" pin="1"/>
+      <node ref="K_DOT1" pin="1"/>
+      <node ref="K_O1" pin="1"/>
+    </net>
+    <net code="76" name="col11">
+      <node ref="K_SEMIC1" pin="1"/>
+      <node ref="K_P1" pin="1"/>
+      <node ref="K_SLASH1" pin="1"/>
+      <node ref="U2" pin="41"/>
+      <node ref="K_0" pin="1"/>
+    </net>
+    <net code="77" name="Net-(D_SLASH1-Pad2)">
+      <node ref="K_SLASH1" pin="2"/>
+      <node ref="D_SLASH1" pin="2"/>
+    </net>
+    <net code="78" name="Net-(K_SLASH1-Pad3)">
+      <node ref="K_SLASH1" pin="3"/>
+    </net>
+    <net code="79" name="Net-(K_SLASH1-Pad4)">
+      <node ref="K_SLASH1" pin="4"/>
+    </net>
+    <net code="80" name="Net-(K_SHIFT1-Pad3)">
+      <node ref="K_SHIFT1" pin="3"/>
+    </net>
+    <net code="81" name="Net-(K_SHIFT1-Pad4)">
+      <node ref="K_SHIFT1" pin="4"/>
+    </net>
+    <net code="82" name="Net-(K_F5-Pad3)">
+      <node ref="K_F5" pin="3"/>
+    </net>
+    <net code="83" name="Net-(K_F5-Pad4)">
+      <node ref="K_F5" pin="4"/>
+    </net>
+    <net code="84" name="Net-(K_F4-Pad3)">
+      <node ref="K_F4" pin="3"/>
+    </net>
+    <net code="85" name="Net-(K_F4-Pad4)">
+      <node ref="K_F4" pin="4"/>
+    </net>
+    <net code="86" name="Net-(D_F3-Pad2)">
+      <node ref="K_F3" pin="2"/>
+      <node ref="D_F3" pin="2"/>
+    </net>
+    <net code="87" name="Net-(K_F3-Pad3)">
+      <node ref="K_F3" pin="3"/>
+    </net>
+    <net code="88" name="Net-(K_F3-Pad4)">
+      <node ref="K_F3" pin="4"/>
+    </net>
+    <net code="89" name="Net-(D_F2-Pad2)">
+      <node ref="K_F2" pin="2"/>
+      <node ref="D_F2" pin="2"/>
+    </net>
+    <net code="90" name="Net-(K_F2-Pad3)">
+      <node ref="K_F2" pin="3"/>
+    </net>
+    <net code="91" name="Net-(K_F2-Pad4)">
+      <node ref="K_F2" pin="4"/>
+    </net>
+    <net code="92" name="Net-(D_F1-Pad2)">
+      <node ref="K_F1" pin="2"/>
+      <node ref="D_F1" pin="2"/>
+    </net>
+    <net code="93" name="Net-(K_F1-Pad3)">
+      <node ref="K_F1" pin="3"/>
+    </net>
+    <net code="94" name="Net-(K_F1-Pad4)">
+      <node ref="K_F1" pin="4"/>
+    </net>
+    <net code="95" name="Net-(K_`1-Pad3)">
+      <node ref="K_`1" pin="3"/>
+    </net>
+    <net code="96" name="Net-(K_`1-Pad4)">
+      <node ref="K_`1" pin="4"/>
+    </net>
+    <net code="97" name="Net-(D_`1-Pad2)">
+      <node ref="D_`1" pin="2"/>
+      <node ref="K_`1" pin="2"/>
+    </net>
+    <net code="98" name="Net-(D_TAB1-Pad2)">
+      <node ref="K_TAB1" pin="2"/>
+      <node ref="D_TAB1" pin="2"/>
+    </net>
+    <net code="99" name="Net-(K_TAB1-Pad3)">
+      <node ref="K_TAB1" pin="3"/>
+    </net>
+    <net code="100" name="Net-(K_TAB1-Pad4)">
+      <node ref="K_TAB1" pin="4"/>
+    </net>
+    <net code="101" name="Net-(D_Q1-Pad2)">
+      <node ref="K_Q1" pin="2"/>
+      <node ref="D_Q1" pin="2"/>
+    </net>
+    <net code="102" name="Net-(K_Q1-Pad3)">
+      <node ref="K_Q1" pin="3"/>
+    </net>
+    <net code="103" name="Net-(K_Q1-Pad4)">
+      <node ref="K_Q1" pin="4"/>
+    </net>
+    <net code="104" name="Net-(D_MINUS1-Pad2)">
+      <node ref="D_MINUS1" pin="2"/>
+      <node ref="K_MINUS1" pin="2"/>
+    </net>
+    <net code="105" name="Net-(K_EQUAL1-Pad3)">
+      <node ref="K_EQUAL1" pin="3"/>
+    </net>
+    <net code="106" name="Net-(K_EQUAL1-Pad4)">
+      <node ref="K_EQUAL1" pin="4"/>
+    </net>
+    <net code="107" name="Net-(D_EQUAL1-Pad2)">
+      <node ref="K_EQUAL1" pin="2"/>
+      <node ref="D_EQUAL1" pin="2"/>
+    </net>
+    <net code="108" name="Net-(D_BSLSH1-Pad2)">
+      <node ref="D_BSLSH1" pin="2"/>
+      <node ref="K_BSLSH1" pin="2"/>
+    </net>
+    <net code="109" name="Net-(K_BSLSH1-Pad3)">
+      <node ref="K_BSLSH1" pin="3"/>
+    </net>
+    <net code="110" name="Net-(K_BSLSH1-Pad4)">
+      <node ref="K_BSLSH1" pin="4"/>
+    </net>
+    <net code="111" name="Net-(K_Y1-Pad4)">
+      <node ref="K_Y1" pin="4"/>
+    </net>
+    <net code="112" name="Net-(D_R1-Pad2)">
+      <node ref="K_R1" pin="2"/>
+      <node ref="D_R1" pin="2"/>
+    </net>
+    <net code="113" name="Net-(D_T1-Pad2)">
+      <node ref="K_T1" pin="2"/>
+      <node ref="D_T1" pin="2"/>
+    </net>
+    <net code="114" name="Net-(K_T1-Pad3)">
+      <node ref="K_T1" pin="3"/>
+    </net>
+    <net code="115" name="Net-(K_T1-Pad4)">
+      <node ref="K_T1" pin="4"/>
+    </net>
+    <net code="116" name="Net-(D_Y1-Pad2)">
+      <node ref="K_Y1" pin="2"/>
+      <node ref="D_Y1" pin="2"/>
+    </net>
+    <net code="117" name="Net-(K_Y1-Pad3)">
+      <node ref="K_Y1" pin="3"/>
+    </net>
+    <net code="118" name="Net-(D_U1-Pad2)">
+      <node ref="K_U1" pin="2"/>
+      <node ref="D_U1" pin="2"/>
+    </net>
+    <net code="119" name="Net-(K_U1-Pad3)">
+      <node ref="K_U1" pin="3"/>
+    </net>
+    <net code="120" name="Net-(K_U1-Pad4)">
+      <node ref="K_U1" pin="4"/>
+    </net>
+    <net code="121" name="Net-(K_E1-Pad3)">
+      <node ref="K_E1" pin="3"/>
+    </net>
+    <net code="122" name="Net-(D_W1-Pad2)">
+      <node ref="K_W1" pin="2"/>
+      <node ref="D_W1" pin="2"/>
+    </net>
+    <net code="123" name="Net-(K_W1-Pad3)">
+      <node ref="K_W1" pin="3"/>
+    </net>
+    <net code="124" name="Net-(K_W1-Pad4)">
+      <node ref="K_W1" pin="4"/>
+    </net>
+    <net code="125" name="Net-(D_E1-Pad2)">
+      <node ref="D_E1" pin="2"/>
+      <node ref="K_E1" pin="2"/>
+    </net>
+    <net code="126" name="Net-(K_MINUS1-Pad4)">
+      <node ref="K_MINUS1" pin="4"/>
+    </net>
+    <net code="127" name="Net-(K_E1-Pad4)">
+      <node ref="K_E1" pin="4"/>
+    </net>
+    <net code="128" name="Net-(K_R1-Pad3)">
+      <node ref="K_R1" pin="3"/>
+    </net>
+    <net code="129" name="Net-(K_R1-Pad4)">
+      <node ref="K_R1" pin="4"/>
+    </net>
+    <net code="130" name="Net-(D_2-Pad2)">
+      <node ref="D_2" pin="2"/>
+      <node ref="K_2" pin="2"/>
+    </net>
+    <net code="131" name="Net-(D_3-Pad2)">
+      <node ref="D_3" pin="2"/>
+      <node ref="K_3" pin="2"/>
+    </net>
+    <net code="132" name="Net-(K_3-Pad3)">
+      <node ref="K_3" pin="3"/>
+    </net>
+    <net code="133" name="Net-(K_3-Pad4)">
+      <node ref="K_3" pin="4"/>
+    </net>
+    <net code="134" name="Net-(D_4-Pad2)">
+      <node ref="K_4" pin="2"/>
+      <node ref="D_4" pin="2"/>
+    </net>
+    <net code="135" name="Net-(K_4-Pad3)">
+      <node ref="K_4" pin="3"/>
+    </net>
+    <net code="136" name="Net-(K_4-Pad4)">
+      <node ref="K_4" pin="4"/>
+    </net>
+    <net code="137" name="Net-(D_5-Pad2)">
+      <node ref="D_5" pin="2"/>
+      <node ref="K_5" pin="2"/>
+    </net>
+    <net code="138" name="Net-(K_5-Pad3)">
+      <node ref="K_5" pin="3"/>
+    </net>
+    <net code="139" name="Net-(K_5-Pad4)">
+      <node ref="K_5" pin="4"/>
+    </net>
+    <net code="140" name="Net-(K_1-Pad3)">
+      <node ref="K_1" pin="3"/>
+    </net>
+    <net code="141" name="Net-(D_`2-Pad2)">
+      <node ref="D_`2" pin="2"/>
+      <node ref="K_`2" pin="2"/>
+    </net>
+    <net code="142" name="Net-(K_`2-Pad3)">
+      <node ref="K_`2" pin="3"/>
+    </net>
+    <net code="143" name="Net-(K_`2-Pad4)">
+      <node ref="K_`2" pin="4"/>
+    </net>
+    <net code="144" name="Net-(D_1-Pad2)">
+      <node ref="K_1" pin="2"/>
+      <node ref="D_1" pin="2"/>
+    </net>
+    <net code="145" name="Net-(K_1-Pad4)">
+      <node ref="K_1" pin="4"/>
+    </net>
+    <net code="146" name="Net-(K_2-Pad3)">
+      <node ref="K_2" pin="3"/>
+    </net>
+    <net code="147" name="Net-(K_2-Pad4)">
+      <node ref="K_2" pin="4"/>
+    </net>
+    <net code="148" name="Net-(D_8-Pad2)">
+      <node ref="D_8" pin="2"/>
+      <node ref="K_8" pin="2"/>
+    </net>
+    <net code="149" name="Net-(D_9-Pad2)">
+      <node ref="K_9" pin="2"/>
+      <node ref="D_9" pin="2"/>
+    </net>
+    <net code="150" name="Net-(K_9-Pad3)">
+      <node ref="K_9" pin="3"/>
+    </net>
+    <net code="151" name="Net-(K_9-Pad4)">
+      <node ref="K_9" pin="4"/>
+    </net>
+    <net code="152" name="Net-(K_8-Pad4)">
+      <node ref="K_8" pin="4"/>
+    </net>
+    <net code="153" name="Net-(D_0-Pad2)">
+      <node ref="K_0" pin="2"/>
+      <node ref="D_0" pin="2"/>
+    </net>
+    <net code="154" name="Net-(K_0-Pad3)">
+      <node ref="K_0" pin="3"/>
+    </net>
+    <net code="155" name="Net-(K_0-Pad4)">
+      <node ref="K_0" pin="4"/>
+    </net>
+    <net code="156" name="Net-(K_MINUS1-Pad3)">
+      <node ref="K_MINUS1" pin="3"/>
+    </net>
+    <net code="157" name="Net-(D_6-Pad2)">
+      <node ref="K_6" pin="2"/>
+      <node ref="D_6" pin="2"/>
+    </net>
+    <net code="158" name="Net-(K_6-Pad3)">
+      <node ref="K_6" pin="3"/>
+    </net>
+    <net code="159" name="Net-(K_6-Pad4)">
+      <node ref="K_6" pin="4"/>
+    </net>
+    <net code="160" name="Net-(D_7-Pad2)">
+      <node ref="D_7" pin="2"/>
+      <node ref="K_7" pin="2"/>
+    </net>
+    <net code="161" name="Net-(K_7-Pad3)">
+      <node ref="K_7" pin="3"/>
+    </net>
+    <net code="162" name="Net-(K_7-Pad4)">
+      <node ref="K_7" pin="4"/>
+    </net>
+    <net code="163" name="Net-(K_8-Pad3)">
+      <node ref="K_8" pin="3"/>
+    </net>
+    <net code="164" name="Net-(K_SEMIC1-Pad4)">
+      <node ref="K_SEMIC1" pin="4"/>
+    </net>
+    <net code="165" name="Net-(D_K1-Pad2)">
+      <node ref="K_K1" pin="2"/>
+      <node ref="D_K1" pin="2"/>
+    </net>
+    <net code="166" name="Net-(D_L1-Pad2)">
+      <node ref="K_L1" pin="2"/>
+      <node ref="D_L1" pin="2"/>
+    </net>
+    <net code="167" name="Net-(K_L1-Pad3)">
+      <node ref="K_L1" pin="3"/>
+    </net>
+    <net code="168" name="Net-(K_L1-Pad4)">
+      <node ref="K_L1" pin="4"/>
+    </net>
+    <net code="169" name="Net-(D_SEMIC1-Pad2)">
+      <node ref="D_SEMIC1" pin="2"/>
+      <node ref="K_SEMIC1" pin="2"/>
+    </net>
+    <net code="170" name="Net-(K_SEMIC1-Pad3)">
+      <node ref="K_SEMIC1" pin="3"/>
+    </net>
+    <net code="171" name="Net-(D_QUOTE1-Pad2)">
+      <node ref="D_QUOTE1" pin="2"/>
+      <node ref="K_QUOTE1" pin="2"/>
+    </net>
+    <net code="172" name="Net-(K_QUOTE1-Pad3)">
+      <node ref="K_QUOTE1" pin="3"/>
+    </net>
+    <net code="173" name="Net-(K_QUOTE1-Pad4)">
+      <node ref="K_QUOTE1" pin="4"/>
+    </net>
+    <net code="174" name="Net-(K_J1-Pad3)">
+      <node ref="K_J1" pin="3"/>
+    </net>
+    <net code="175" name="Net-(D_G1-Pad2)">
+      <node ref="K_G1" pin="2"/>
+      <node ref="D_G1" pin="2"/>
+    </net>
+    <net code="176" name="Net-(D_H1-Pad2)">
+      <node ref="K_H1" pin="2"/>
+      <node ref="D_H1" pin="2"/>
+    </net>
+    <net code="177" name="Net-(K_H1-Pad3)">
+      <node ref="K_H1" pin="3"/>
+    </net>
+    <net code="178" name="Net-(K_H1-Pad4)">
+      <node ref="K_H1" pin="4"/>
+    </net>
+    <net code="179" name="Net-(D_J1-Pad2)">
+      <node ref="K_J1" pin="2"/>
+      <node ref="D_J1" pin="2"/>
+    </net>
+    <net code="180" name="Net-(K_J1-Pad4)">
+      <node ref="K_J1" pin="4"/>
+    </net>
+    <net code="181" name="Net-(K_K1-Pad3)">
+      <node ref="K_K1" pin="3"/>
+    </net>
+    <net code="182" name="Net-(K_K1-Pad4)">
+      <node ref="K_K1" pin="4"/>
+    </net>
+    <net code="183" name="Net-(D_C1-Pad2)">
+      <node ref="D_C1" pin="2"/>
+      <node ref="K_C1" pin="2"/>
+    </net>
+    <net code="184" name="Net-(D_Z1-Pad2)">
+      <node ref="K_Z1" pin="2"/>
+      <node ref="D_Z1" pin="2"/>
+    </net>
+    <net code="185" name="Net-(D_X1-Pad2)">
+      <node ref="K_X1" pin="2"/>
+      <node ref="D_X1" pin="2"/>
+    </net>
+    <net code="186" name="Net-(K_X1-Pad3)">
+      <node ref="K_X1" pin="3"/>
+    </net>
+    <net code="187" name="Net-(K_X1-Pad4)">
+      <node ref="K_X1" pin="4"/>
+    </net>
+    <net code="188" name="Net-(K_C1-Pad3)">
+      <node ref="K_C1" pin="3"/>
+    </net>
+    <net code="189" name="Net-(K_C1-Pad4)">
+      <node ref="K_C1" pin="4"/>
+    </net>
+    <net code="190" name="Net-(K_V1-Pad3)">
+      <node ref="K_V1" pin="3"/>
+    </net>
+    <net code="191" name="Net-(K_V1-Pad4)">
+      <node ref="K_V1" pin="4"/>
+    </net>
+    <net code="192" name="Net-(D_ENTER1-Pad2)">
+      <node ref="K_ENTER1" pin="2"/>
+      <node ref="D_ENTER1" pin="2"/>
+    </net>
+    <net code="193" name="Net-(K_ENTER1-Pad3)">
+      <node ref="K_ENTER1" pin="3"/>
+    </net>
+    <net code="194" name="Net-(K_ENTER1-Pad4)">
+      <node ref="K_ENTER1" pin="4"/>
+    </net>
+    <net code="195" name="Net-(D_F4-Pad2)">
+      <node ref="D_F4" pin="2"/>
+      <node ref="K_F4" pin="2"/>
+    </net>
+    <net code="196" name="Net-(D_SHIFT2-Pad2)">
+      <node ref="D_SHIFT2" pin="2"/>
+      <node ref="K_SHIFT2" pin="2"/>
+    </net>
+    <net code="197" name="Net-(K_SHIFT2-Pad3)">
+      <node ref="K_SHIFT2" pin="3"/>
+    </net>
+    <net code="198" name="Net-(K_SHIFT2-Pad4)">
+      <node ref="K_SHIFT2" pin="4"/>
+    </net>
+    <net code="199" name="Net-(K_Z1-Pad3)">
+      <node ref="K_Z1" pin="3"/>
+    </net>
+    <net code="200" name="Net-(K_Z1-Pad4)">
+      <node ref="K_Z1" pin="4"/>
+    </net>
+    <net code="201" name="Net-(D_[1-Pad2)">
+      <node ref="K_[1" pin="2"/>
+      <node ref="D_[1" pin="2"/>
+    </net>
+    <net code="202" name="Net-(K_[1-Pad3)">
+      <node ref="K_[1" pin="3"/>
+    </net>
+    <net code="203" name="Net-(K_[1-Pad4)">
+      <node ref="K_[1" pin="4"/>
+    </net>
+    <net code="204" name="Net-(D_]1-Pad2)">
+      <node ref="D_]1" pin="2"/>
+      <node ref="K_]1" pin="2"/>
+    </net>
+    <net code="205" name="Net-(K_]1-Pad3)">
+      <node ref="K_]1" pin="3"/>
+    </net>
+    <net code="206" name="Net-(K_]1-Pad4)">
+      <node ref="K_]1" pin="4"/>
+    </net>
+    <net code="207" name="Net-(D_BACKSPACE1-Pad2)">
+      <node ref="D_BACKSPACE1" pin="2"/>
+      <node ref="K_BACKSPACE1" pin="2"/>
+    </net>
+    <net code="208" name="Net-(K_BACKSPACE1-Pad3)">
+      <node ref="K_BACKSPACE1" pin="3"/>
+    </net>
+    <net code="209" name="Net-(K_BACKSPACE1-Pad4)">
+      <node ref="K_BACKSPACE1" pin="4"/>
+    </net>
+    <net code="210" name="Net-(K_O1-Pad4)">
+      <node ref="K_O1" pin="4"/>
+    </net>
+    <net code="211" name="Net-(D_I1-Pad2)">
+      <node ref="K_I1" pin="2"/>
+      <node ref="D_I1" pin="2"/>
+    </net>
+    <net code="212" name="Net-(K_I1-Pad3)">
+      <node ref="K_I1" pin="3"/>
+    </net>
+    <net code="213" name="Net-(K_I1-Pad4)">
+      <node ref="K_I1" pin="4"/>
+    </net>
+    <net code="214" name="Net-(D_O1-Pad2)">
+      <node ref="D_O1" pin="2"/>
+      <node ref="K_O1" pin="2"/>
+    </net>
+    <net code="215" name="Net-(K_O1-Pad3)">
+      <node ref="K_O1" pin="3"/>
+    </net>
+    <net code="216" name="Net-(D_P1-Pad2)">
+      <node ref="D_P1" pin="2"/>
+      <node ref="K_P1" pin="2"/>
+    </net>
+    <net code="217" name="Net-(K_P1-Pad3)">
+      <node ref="K_P1" pin="3"/>
+    </net>
+    <net code="218" name="Net-(K_P1-Pad4)">
+      <node ref="K_P1" pin="4"/>
+    </net>
+    <net code="219" name="Net-(K_F11-Pad3)">
+      <node ref="K_F11" pin="3"/>
+    </net>
+    <net code="220" name="Net-(D_S1-Pad2)">
+      <node ref="K_S1" pin="2"/>
+      <node ref="D_S1" pin="2"/>
+    </net>
+    <net code="221" name="Net-(D_D1-Pad2)">
+      <node ref="K_D1" pin="2"/>
+      <node ref="D_D1" pin="2"/>
+    </net>
+    <net code="222" name="Net-(K_D1-Pad3)">
+      <node ref="K_D1" pin="3"/>
+    </net>
+    <net code="223" name="Net-(K_D1-Pad4)">
+      <node ref="K_D1" pin="4"/>
+    </net>
+    <net code="224" name="Net-(D_F11-Pad2)">
+      <node ref="K_F11" pin="2"/>
+      <node ref="D_F11" pin="2"/>
+    </net>
+    <net code="225" name="Net-(K_F11-Pad4)">
+      <node ref="K_F11" pin="4"/>
+    </net>
+    <net code="226" name="Net-(K_G1-Pad3)">
+      <node ref="K_G1" pin="3"/>
+    </net>
+    <net code="227" name="Net-(K_G1-Pad4)">
+      <node ref="K_G1" pin="4"/>
+    </net>
+    <net code="228" name="Net-(D_A1-Pad2)">
+      <node ref="K_A1" pin="2"/>
+      <node ref="D_A1" pin="2"/>
+    </net>
+    <net code="229" name="Net-(D_CAPS_LOCK1-Pad2)">
+      <node ref="D_CAPS_LOCK1" pin="2"/>
+      <node ref="K_CAPS_LOCK1" pin="2"/>
+    </net>
+    <net code="230" name="Net-(K_CAPS_LOCK1-Pad3)">
+      <node ref="K_CAPS_LOCK1" pin="3"/>
+    </net>
+    <net code="231" name="Net-(K_CAPS_LOCK1-Pad4)">
+      <node ref="K_CAPS_LOCK1" pin="4"/>
+    </net>
+    <net code="232" name="Net-(K_A1-Pad3)">
+      <node ref="K_A1" pin="3"/>
+    </net>
+    <net code="233" name="Net-(K_A1-Pad4)">
+      <node ref="K_A1" pin="4"/>
+    </net>
+    <net code="234" name="Net-(K_S1-Pad3)">
+      <node ref="K_S1" pin="3"/>
+    </net>
+    <net code="235" name="Net-(K_S1-Pad4)">
+      <node ref="K_S1" pin="4"/>
+    </net>
+  </nets>
+</export>

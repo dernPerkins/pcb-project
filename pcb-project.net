@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "\\\\detc-files01\\RedirectedFolders\\DPERKINS\\My Documents\\KiCad Projects\\pcb-project\\pcb-project\\pcb-project.sch")
-    (date "3/26/2019 4:48:07 PM")
+    (date "3/28/2019 3:07:51 PM")
     (tool "Eeschema (5.1.0)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -833,7 +833,7 @@
       (tstamp 5CB098B5))
     (comp (ref X2)
       (value XTAL_GND)
-      (footprint Crystal:Crystal_SMD_5032-4Pin_5.0x3.2mm)
+      (footprint Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm)
       (datasheet ~)
       (libsource (lib Device) (part Crystal_GND24_Small) (description "Four pin crystal, GND on pins 2 and 4, small symbol"))
       (sheetpath (names /) (tstamps /))
