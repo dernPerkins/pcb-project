@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source "\\\\detc-files01\\RedirectedFolders\\DPERKINS\\My Documents\\KiCad Projects\\pcb-project\\pcb-project\\pcb-project.sch")
-    (date "3/28/2019 3:07:51 PM")
+    (source C:\TFS\github\pcb-project\pcb-project\pcb-project.sch)
+    (date "4/4/2019 5:20:24 PM")
     (tool "Eeschema (5.1.0)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -761,7 +761,7 @@
       (tstamp 5D722BC6))
     (comp (ref K_ALT2)
       (value KEYSW)
-      (footprint MX_Alps_Hybrid:MX-1.25U-NoLED)
+      (footprint MX_Alps_Hybrid:MX-1.5U-NoLED)
       (libsource (lib MX_Alps_Hybrid) (part MX-1U) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5D722BD8))
@@ -787,7 +787,7 @@
       (tstamp 603264E4))
     (comp (ref K_ALT1)
       (value KEYSW)
-      (footprint MX_Alps_Hybrid:MX-1.25U-NoLED)
+      (footprint MX_Alps_Hybrid:MX-1.5U-NoLED)
       (libsource (lib MX_Alps_Hybrid) (part MX-1U) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5D722BCB))
