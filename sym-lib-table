@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name random-keyboard-parts)(type Legacy)(uri "//detc-files01/RedirectedFolders/DPERKINS/My Documents/KiCad Projects/pcb-project/pcb-project/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
-  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "//detc-files01/RedirectedFolders/DPERKINS/My Documents/KiCad Projects/pcb-project/pcb-project/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib")(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "F:/GitHub/pcb-project/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "F:/GitHub/pcb-project/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib")(options "")(descr ""))
 )
