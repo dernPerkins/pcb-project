@@ -1,5 +1,5 @@
-Drill report for \\detc-files01\RedirectedFolders\DPERKINS\My Documents\KiCad Projects\pcb-project\pcb-project\pcb-project.kicad_pcb
-Created on 3/28/2019 3:15:13 PM
+Drill report for C:\TFS\github\pcb-project\pcb-project\pcb-project.kicad_pcb
+Created on 5/2/2019 5:07:55 PM
 
 Copper Layer Stackup:
     =============================================================
@@ -10,11 +10,11 @@ Copper Layer Stackup:
 Drill file 'pcb-project-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0.40mm  0.016"  (90 holes)
-    T2  0.70mm  0.028"  (4 holes)  (with 4 slots)
+    T1  0.40mm  0.016"  (41 holes)
+    T2  1.10mm  0.043"  (31 holes)
     T3  1.47mm  0.058"  (260 holes)
 
-    Total plated holes count 354
+    Total plated holes count 332
 
 
 Drill file 'pcb-project-NPTH.drl' contains
