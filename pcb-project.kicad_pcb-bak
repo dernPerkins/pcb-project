@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 10)
+    (drawings 11)
     (tracks 1499)
     (zones 0)
     (modules 146)
@@ -6094,6 +6094,18 @@
       (net 105 "Net-(USB2-Pad6)"))
   )
 
+  (dimension 323.85 (width 0.12) (layer F.SilkS)
+    (gr_text "323.850 mm" (at 188.11875 37.62375) (layer F.SilkS)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (feature1 (pts (xy 350.04375 49.2125) (xy 350.04375 38.307329)))
+    (feature2 (pts (xy 26.19375 49.2125) (xy 26.19375 38.307329)))
+    (crossbar (pts (xy 26.19375 38.89375) (xy 350.04375 38.89375)))
+    (arrow1a (pts (xy 350.04375 38.89375) (xy 348.917246 39.480171)))
+    (arrow1b (pts (xy 350.04375 38.89375) (xy 348.917246 38.307329)))
+    (arrow2a (pts (xy 26.19375 38.89375) (xy 27.320254 39.480171)))
+    (arrow2b (pts (xy 26.19375 38.89375) (xy 27.320254 38.307329)))
+  )
   (gr_text "Designed By Dean Perkins" (at 163.5125 142.08125) (layer B.SilkS)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
