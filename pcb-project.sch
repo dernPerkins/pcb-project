@@ -2757,23 +2757,8 @@ Wire Wire Line
 	16450 6300 16300 6300
 Wire Wire Line
 	17200 6300 17050 6300
-$Comp
-L Device:R_Small R9
-U 1 1 5CFACD8B
-P 20775 3750
-F 0 "R9" V 20875 3750 50  0000 C CNN
-F 1 "500Ω" V 20950 3750 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 20775 3750 50  0001 C CNN
-F 3 "~" H 20775 3750 50  0001 C CNN
-	1    20775 3750
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	20425 3750 20675 3750
-Text GLabel 21000 3750 2    50   Input ~ 0
+Text GLabel 20425 3750 2    50   Input ~ 0
 rgb
-Wire Wire Line
-	20875 3750 21000 3750
 Text GLabel 12550 6300 0    50   Input ~ 0
 rgb
 Wire Wire Line
